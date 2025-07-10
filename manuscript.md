@@ -218,30 +218,30 @@ ForEach(chips.indices, id: \.self) { index in
 
 日々のUI実装における小さな判断の積み重ねが、最終的な開発効率とアプリケーションの品質を決定します。本稿で紹介した視点と判断基準を活用し、より効果的なモバイルアプリ開発を実現していただければと思います。
 
-## 【図解解説ノートVol.1🗒️】
+### 【図解解説ノートVol.1🗒️】
 
 ![iosdc_japan_2025_manuscript_vol1.jpg](./images/iosdc_japan_2025_manuscript_vol1.jpg)
 
-## 【図解解説ノートVol.2🗒️】
+### 【図解解説ノートVol.2🗒️】
 
 ![iosdc_japan_2025_manuscript_vol2.jpg](./images/iosdc_japan_2025_manuscript_vol2.jpg)
 
-## 【図解解説ノートVol.3🗒️】
+### 【図解解説ノートVol.3🗒️】
 
 ![iosdc_japan_2025_manuscript_vol3.jpg](./images/iosdc_japan_2025_manuscript_vol3.jpg)
 
-## 【図解解説ノートVol.4🗒️】
+### 【図解解説ノートVol.4🗒️】
 
 ![iosdc_japan_2025_manuscript_vol4.jpg](./images/iosdc_japan_2025_manuscript_vol4.jpg)
 
-## 【図解解説ノートVol.5🗒️】
+### 【図解解説ノートVol.5🗒️】
 
 ![iosdc_japan_2025_manuscript_vol5.jpg](./images/iosdc_japan_2025_manuscript_vol5.jpg)
 
-## 【図解解説ノートVol.6🗒️】
+### 【図解解説ノートVol.6🗒️】
 
 ![iosdc_japan_2025_manuscript_vol6.jpg](./images/iosdc_japan_2025_manuscript_vol6.jpg)
 
-## 【図解解説ノートVol.7🗒️】
+### 【図解解説ノートVol.7🗒️】
 
 ![iosdc_japan_2025_manuscript_vol7.jpg](./images/iosdc_japan_2025_manuscript_vol7.jpg)
